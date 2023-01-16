@@ -1,0 +1,25 @@
+{
+  "data": {
+    "count": 3,
+    "topics": [
+      {
+        "name": "example1",
+        "start": 1832,
+        "end": 1945,
+        "event_count": 31
+      },
+      {
+        "name": "example2",
+        "start": 1947,
+        "end": 2021,
+        "event_count": 42
+      },
+      {
+        "name": "example3",
+        "start": 1902,
+        "end": 1911,
+        "event_count": 20
+      }
+    ]
+  }
+}
